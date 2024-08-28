@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="operador1">Operador 1</string>
+    <string name="introducir1">Introduzca el primer valor numerico</string>
+    <string name="operador2">Operador 2</string>
+    <string name="introducir2">Introduzca el segudo valor numerico</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
